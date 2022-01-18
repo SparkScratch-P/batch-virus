@@ -330,7 +330,7 @@ rem —
  
  
  
- ## This was just a list of ten. There are 25 More in our collection, here on GitHub! Just Have a look at thm:
+## This was just a list of ten. There are 25 More in our collection, here on GitHub! Just Have a look at thm:
 
 - Task-kill some apps
 - Command Line Notepad
