@@ -1,0 +1,2 @@
+@Echo off
+Ipconfig /displaydns
