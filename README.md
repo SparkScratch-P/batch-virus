@@ -444,5 +444,5 @@ Favourable points of development:
 
 ### All contributions and PRs are welcome. 
 
-<h1 align="center"> Leave A Star If You Like It <h1>
-<h1 align="center"> Thank You <h1>
+<h1 align="center">⭐ Leave A Star If You Like It ⭐<h1>
+<h1 align="center">❤️ Thank You ❤️<h1>
