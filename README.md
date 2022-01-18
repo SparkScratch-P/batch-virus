@@ -334,6 +334,13 @@ rem —
 - Task-kill some apps
 - Command Line Notepad
 - CD/ROM popper with malicious popups
+
+<details><summary>Details</summary>
+
+CD/ROM keeps opening  and closing ...an error msg keeps popping up  and when i turn on my PC an error msg shows so i have to press ok then open my account
+
+</details>
+
 - CD drive popup
 - Stop current Internet access
 - Format all Drives from C to J
@@ -347,12 +354,66 @@ rem —
 - Change useful random files to on-working txt files
 - System meltdown
 - Flood internet
+- System Crash
+
+<details><summary>Details</summary>
+It will make you unable to use your PC and FORCE you to install Windows OS again. You will only be aware of the infiltration the next time you turn on your Computer! Use the latest version of “Bat To Exe Converter” and add Administrator manifest to it and make it Invisible application before converting it to .exe! Your victim doesn’t even know what is happening or what this virus did. Your trusted Antivirus can’t even detect it cause this file doesn’t work as normal viruses but the later damage will be way too much than what a couple of malware can do.
+You may name it in a sexy way like GTA and choose the appropriate icon to attract your victim’s attention. But please, don’t try to be an ASS HAT with it.
+
+</details>
 - Matrix virus
-- Bloat randon folder
+
+<details><summary>Details</summary>
+
+AS IT WAS TOO DANGEROUS, THE ACTUAL HEADER FILES FOR THIS SCRIPT ARE NOT GIVEN
+AND IF U WANT TO TRY THIS SCRIPT U CAN JUST USE OF HEADER FILES SUCH AS STDIN, STDLIB, CONIO, AND STUFF LIKE THAT
+
+</details>
+
+- Bloat random folder
 - User Account Bloatware
 - Overload with unlimited background processes
 - Killer and system crasher virus
+
+<details><summary>Details</summary>
+
+Here is a Batch File virus which can:
+
+1.Copy itself into startup
+2.Copy itself over one thousand times into random spots in your computer.
+3.Hide its self and all other created files
+4.Task kill MSN, Norton, Windows Explorer, Limewire.
+5.Swap the left mouse button with the right one
+6.Opens alert boxes
+7.Changes the time to 12:00 and shuts down the computer
+copy this code into notepad and save as Greatgame.bat(while saving select all files instead of text ).
+
+</details>
+
 - Show incognito history
 - Delete entire system
-- Create virus34.bat
+- Command Line Notepad
+
+<details><summary>Details</summary>
+Form Of Switches
+
+-s
+Shuts down the PC.
+
+-l
+Logs off the current user.
+
+-t nn
+Indicates the duration of delay, in seconds, before performing the action.
+
+-c “messagetext”
+Displays a message in the System Shutdown window. A maximum of 127 characters can be used. The message must be enclosed in quotation marks.
+
+-f
+Forces any running applications to shut down.
+
+-r
+Reboots the PC. ..!!!
+
+</details>
 - Text bloater
