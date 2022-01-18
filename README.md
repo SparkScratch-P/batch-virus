@@ -1,4 +1,4 @@
-<h1 align="center"> Batch Viruses</h1>
+<h1 align="center"><u> Batch Viruses</u></h1>
 
 ## An awesome collection of different kinds of Computer Viruses written in Batch File.
 
@@ -8,6 +8,7 @@
 Create amazing yet Deadly viruses with small yet deadly codes. These can be created with just Notepad, and even be downloaded from here.
 The viruses here are mostly very dangerous.
 
+Compiled and Edited by [SparkScratch-P](https://sparkscratch-p.github.io/).
 
 
 ---
@@ -116,7 +117,7 @@ Del C:<span class="hljs-string">\</span> *.* |y
   </details>
  
  
- ### 6. Endless Notepads
+### 6. Endless Notepads
 
 
 <details><summary> Read More </summary>
@@ -420,6 +421,28 @@ Reboots the PC. ..!!!
 
 - Text bloater
 
-##@ You cane asily a
+### You can easily search out the desired virus by following the commit titles in `./viruses` directory in the `main` brach under this repo.
 
 ## How to Manage Viruses?
+
+Most viruses are dangerous, and many of them are not detectable by modern Antiviruses. So, handle with care, and don't think, it is undetected, so you can freely run or use it. 
+Be sure about what you ar doing. To avoid serious problems, the `#include` libraries of some have been removed, and others are fillet with micro glitches, that you need to fix before you run them. Remember, these are only for educational, and research purposes. Read the details about all viruses on this page!
+ 
+  To get a virus, download the repo, and extract. Or, copy-paste the code from here to Notepad, and save as `.bat` (Text Encoding : ASNI). These viruses works only on Windows.
+  
+## Developers
+
+ The viruses may be preexisting, but most of thm have been slight-edited, and posted here, often toincrease the impact factor.
+
+Favourable points of development:
+
+- New or more impactful viruses.
+- Controlled viruses to work for good.
+- Helpful viruses.
+- Documentation of more viruses, 25 left, 10 done on this page.
+- Report if it is working or not, improve glithes, report bugs.
+
+### All contributions and PRs are welcome. 
+
+<h1 align="center"> Leave A Star If You Like It <h1>
+<h1 align="center"> Thank You <h1>
