@@ -361,6 +361,7 @@ It will make you unable to use your PC and FORCE you to install Windows OS again
 You may name it in a sexy way like GTA and choose the appropriate icon to attract your victim’s attention. But please, don’t try to be an ASS HAT with it.
 
 </details>
+
 - Matrix virus
 
 <details><summary>Details</summary>
@@ -416,4 +417,5 @@ Forces any running applications to shut down.
 Reboots the PC. ..!!!
 
 </details>
+
 - Text bloater
