@@ -12,3 +12,9 @@ The viruses here are mostly very dangerous.
 
 ---
 ## ⚠️ALERT: 
+
+- These are only for educational purposes. 
+- Never try them on your own device until you are sure of what you are doing.
+- Me, or any other contributor to this repo will not be responsible for any damage to your device.
+- Handle files with care and awareness.
+- Most daages can't be restored or recovered.
