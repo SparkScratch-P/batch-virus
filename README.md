@@ -429,6 +429,12 @@ Most viruses are dangerous, and many of them are not detectable by modern Antivi
 Be sure about what you ar doing. To avoid serious problems, the `#include` libraries of some have been removed, and others are fillet with micro glitches, that you need to fix before you run them. Remember, these are only for educational, and research purposes. Read the details about all viruses on this page!
  
   To get a virus, download the repo, and extract. Or, copy-paste the code from here to Notepad, and save as `.bat` (Text Encoding : ASNI). These viruses works only on Windows.
+
+        <section id="downloads">
+          
+          <a href="https://codeload.github.com/SparkScratch-P/batch-virus/zip/refs/heads/main" class="btn btn-github"><span class="icon"></span>Download .Zip</a>
+        </section>
+      </div>
   
 ## Developers
 
@@ -441,6 +447,12 @@ Favourable points of development:
 - Helpful viruses.
 - Documentation of more viruses, 25 left, 10 done on this page.
 - Report if it is working or not, improve glithes, report bugs.
+
+     <section id="downloads">
+          
+          <a href="https://codeload.github.com/SparkScratch-P/batch-virus/zip/refs/heads/main" class="btn btn-github"><span class="icon"></span>Download .Zip</a>
+        </section>
+      </div>
 
 ### All contributions and PRs are welcome. 
 
