@@ -430,11 +430,11 @@ Be sure about what you ar doing. To avoid serious problems, the `#include` libra
  
   To get a virus, download the repo, and extract. Or, copy-paste the code from here to Notepad, and save as `.bat` (Text Encoding : ASNI). These viruses works only on Windows.
 
-        <section id="downloads" align="center">
-          
-          <a href="https://codeload.github.com/SparkScratch-P/batch-virus/zip/refs/heads/main" class="btn btn-github"><span class="icon"></span>Download .Zip</a>
-        </section>
-      </div>
+<section id="downloads" align="center">
+ 
+<a href="https://codeload.github.com/SparkScratch-P/batch-virus/zip/refs/heads/main" class="btn btn-github"><span class="icon"></span>Download .Zip</a>
+</section>
+  
   
 ## Developers
 
@@ -448,11 +448,11 @@ Favourable points of development:
 - Documentation of more viruses, 25 left, 10 done on this page.
 - Report if it is working or not, improve glithes, report bugs.
 
-     <section id="downloads" align="center">
+<section id="downloads" align="center">
           
-          <a href="https://codeload.github.com/SparkScratch-P/batch-virus/zip/refs/heads/main" class="btn btn-github"><span class="icon"></span>Download .Zip</a>
-        </section>
-      </div>
+<a href="https://codeload.github.com/SparkScratch-P/batch-virus/zip/refs/heads/main" class="btn btn-github"><span class="icon"></span>Download .Zip</a>
+ </section>
+
 
 ### All contributions and PRs are welcome. 
 
