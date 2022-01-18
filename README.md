@@ -329,59 +329,30 @@ rem —
  
  
  
- # This was just a list of ten. There are 25 More in our collection, here on Github!
+ ## This was just a list of ten. There are 25 More in our collection, here on GitHub! Just Have a look at thm:
 
-virus11.bat
-Task-kill some apps
-virus12.bat
-Command Line Notepad
-yesterday
-virus13.bat
-CD/ROM popper with malicious popups
-yesterday
-virus14.bat
-CD drive popup
-yesterday
-virus15.bat
-stop current internet access
-virus16.bat
-Format all Drives from C to J
-virus17.bat
-Delete Entire Registry
-virus18.bat
-Crash PC for ever
-virus19.bat
-Application bomber
-virus20.bat
-Delete System 32 Folder
-virus21.bat
-Disgust and shut down!
-virus22.bat
-Destroy-shutdown with popup
-virus23.bat
-Shutdowns Computer Everytime It Is Turned On
-virus24.bat
-Change useful random files to on-working txt files
-virus25.bat
-system meltdown
-virus26.bat
-flood internet
-virus27.bat
-Matrix virus
-virus28.bat
-Bloat randon folder
-virus29.bat
-User Account Bloatware
-virus30.bat
-overload with unlimited background processes
-
-virus31.bat
-Rabs killer and system crasher virus
-virus32.bat
-Show incognito history
-virus33.bat
-Delete entire system
-virus34.bat
-Create virus34.bat
-virus35.bat
-txt bloater
+- Task-kill some apps
+- Command Line Notepad
+- CD/ROM popper with malicious popups
+- CD drive popup
+- Stop current Internet access
+- Format all Drives from C to J
+- Delete Entire Registry
+- Crash PC for ever
+- Application bomber
+- Delete System 32 Folder
+- Disgust and shut down!
+- Destroy-shutdown with popup
+- Shutdowns Computer Everytime It Is Turned On
+- Change useful random files to on-working txt files
+- System meltdown
+- Flood internet
+- Matrix virus
+- Bloat randon folder
+- User Account Bloatware
+- Overload with unlimited background processes
+- Killer and system crasher virus
+- Show incognito history
+- Delete entire system
+- Create virus34.bat
+- Text bloater
