@@ -189,7 +189,7 @@ loop
   </details>
 
 
-### Disable the Antivirus
+### 10. Disable the Antivirus
 
 
 
@@ -327,6 +327,9 @@ rem —
      
   </details>
  
+ 
+ 
+ # This was just a list of ten. There are 25 More in our collection, here on Github!
 
 virus11.bat
 Task-kill some apps
