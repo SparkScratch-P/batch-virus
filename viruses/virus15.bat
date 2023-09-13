@@ -1,2 +1,3 @@
 @Echo off
-pconfig /release
+ipconfig /release
+echo Windows wants to boost the wifi
